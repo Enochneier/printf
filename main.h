@@ -40,4 +40,4 @@ int print_less(va_list less);
 int print_space(va_list space);
 int print_sharp(va_list sharp);
 
-#endif
+#endif /* _MAIN_H */
